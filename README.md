@@ -40,7 +40,7 @@
 
 ## 📫 Como me encontrar
 - ✉️ Email: miguelcs.schramm@gmail.com 
-- 💼 LinkedIn: [Miguel Schramm](https://www.linkedin.com/in/miguelschramm/)  
+- 💼 LinkedIn: [Miguel-Schramm](https://www.linkedin.com/in/miguelschramm/)  
 
 ---
 
