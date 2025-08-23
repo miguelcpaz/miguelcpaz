@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Miguel Schramm]
+# 👋 Olá, eu sou Miguel Schramm
 
 💻 Estudante do **3º ano do Ensino Médio** com **Técnico em Desenvolvimento de Sistemas**.  
 🚀 Apaixonado por tecnologia, programação e sempre buscando evoluir minhas habilidades.  
