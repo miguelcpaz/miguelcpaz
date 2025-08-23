@@ -23,15 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miguelcpaz&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcpaz&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
----
-
 ## 🌱 O que estou aprendendo
 - Boas práticas em **Clean Code**  
 - Desenvolvimento de APIs RESTful  
