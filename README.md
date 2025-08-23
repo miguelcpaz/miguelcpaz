@@ -26,23 +26,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miguelcpaz&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcpaz&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
 
 ## 🌱 O que estou aprendendo
-- Arquitetura de microsserviços  
 - Boas práticas em **Clean Code**  
 - Desenvolvimento de APIs RESTful  
 
 ---
 
 ## 📫 Como me encontrar
-- ✉️ Email: seuemail@email.com  
-- 💼 LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-perfil)  
-- 🌐 Portfólio: [seu-portfolio.com](https://seu-portfolio.com)  
+- ✉️ Email: miguelcs.schramm@gmail.com 
+- 💼 LinkedIn: [seu-linkedin](https://www.linkedin.com/in/miguelschramm/)  
 
 ---
 
