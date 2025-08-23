@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Olá, eu sou [Miguel Schramm]
 
-<!--
-**miguelcpaz/miguelcpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante do **3º ano do Ensino Médio** com **Técnico em Desenvolvimento de Sistemas**.  
+🚀 Apaixonado por tecnologia, programação e sempre buscando evoluir minhas habilidades.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo
+
+### 🌐 Back-end
+- **Java** ☕ | **Spring Boot** 🌱  
+- **Python** 🐍  
+- **Node.js** ⚡  
+
+### 💻 Front-end
+- **JavaScript (ES6+)** ✨  
+
+---
+
+## 📚 Formação
+🎓 **3º ano do Ensino Médio**  
+🎓 **Curso Técnico em Desenvolvimento de Sistemas**  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+---
+
+## 🌱 O que estou aprendendo
+- Arquitetura de microsserviços  
+- Boas práticas em **Clean Code**  
+- Desenvolvimento de APIs RESTful  
+
+---
+
+## 📫 Como me encontrar
+- ✉️ Email: seuemail@email.com  
+- 💼 LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-perfil)  
+- 🌐 Portfólio: [seu-portfolio.com](https://seu-portfolio.com)  
+
+---
+
+⭐ Se curtiu meu perfil, considere dar um **follow** aqui no GitHub! 😃
