@@ -3,6 +3,8 @@
 💻 Fullstack Developer passionate about technology and programming, always looking to improve my skills.  
 🚀 Experienced in building web applications and exploring new technologies.  
 
+> *"Programming isn't about what you know; it's about what you can figure out."* – Chris Pine  
+
 ---
 
 ## 🚀 Technologies I work with
