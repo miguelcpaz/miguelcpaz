@@ -1,38 +1,34 @@
-# 👋 Olá, eu sou Miguel Schramm
+# 👋 Hello, I'm Miguel Schramm
 
-💻 Estudante do **3º ano do Ensino Médio** com **Técnico em Desenvolvimento de Sistemas**.  
-🚀 Apaixonado por tecnologia, programação e sempre buscando evoluir minhas habilidades.  
+💻 Fullstack Developer passionate about technology and programming, always looking to improve my skills.  
+🚀 Experienced in building web applications and exploring new technologies.  
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Technologies I work with
 
 ### 🌐 Back-end
 - **Java** ☕ | **Spring Boot** 🌱  
-- **Python** 🐍  
 - **Node.js** ⚡  
+- **Python** 🐍  
+- **C#** 💠  
+- **PHP** 🐘  
 
 ### 💻 Front-end
 - **JavaScript (ES6+)** ✨  
 
 ---
 
-## 📚 Formação
-🎓 **3º ano do Ensino Médio**  
-🎓 **Curso Técnico em Desenvolvimento de Sistemas**  
+## 🌱 Currently learning
+- **Blockchain Development** ⛓️  
+- **TypeScript** 🟦  
 
 ---
 
-## 🌱 O que estou aprendendo
-- Boas práticas em **Clean Code**  
-- Desenvolvimento de APIs RESTful  
-
----
-
-## 📫 Como me encontrar
-- ✉️ Email: miguelcs.schramm@gmail.com 
+## 📫 How to reach me
+- ✉️ Email: miguelcs.schramm@gmail.com  
 - 💼 LinkedIn: [Miguel-Schramm](https://www.linkedin.com/in/miguelschramm/)  
 
 ---
 
-⭐ Se curtiu meu perfil, considere dar um **follow** aqui no GitHub! 😃
+⭐ If you like my profile, consider giving me a **follow** here on GitHub! 😃
