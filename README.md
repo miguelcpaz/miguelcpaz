@@ -28,7 +28,7 @@
 ---
 
 ## 📫 How to reach me
-- ✉️ Email: miguelcs.schramm@gmail.com  
+- ✉️ Email: miguelc.schramm@gmail.com  
 - 💼 LinkedIn: [Miguel-Schramm](https://www.linkedin.com/in/miguelschramm/)  
 
 ---
