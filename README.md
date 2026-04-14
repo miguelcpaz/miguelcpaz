@@ -22,7 +22,7 @@
 ---
 
 ## 🌱 Currently learning
-- **Blockchain Development** ⛓️  
+- **Development of an intelligent agent for billing automation with API and database integration** 🧠  
 - **TypeScript** 🟦  
 
 ---
