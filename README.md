@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Miguel Schramm!
 
-💻 **Desenvolvedor** em formação, apaixonado por tecnologia e desenvolvimento de software.
+💻 **Desenvolvedor Backend** em formação, apaixonado por tecnologia e desenvolvimento de software.
 
 Atualmente, venho desenvolvendo projetos web e aprimorando meus conhecimentos principalmente em **backend, APIs, bancos de dados, automação e desenvolvimento de sistemas**.
 
@@ -11,7 +11,7 @@ Tenho interesse em transformar problemas em soluções através da tecnologia e 
 ## 🧑‍💻 Sobre mim
 
 * 🎓 Estudante de tecnologia e desenvolvimento de software
-* 💻 Foco em **Desenvolvimento**
+* 💻 Foco em **Desenvolvimento Backend**
 * 🚀 Experiência prática no desenvolvimento de aplicações web
 * 🗄️ Interesse em **APIs, bancos de dados e arquitetura de sistemas**
 * 🤖 Interesse em **automação e inteligência artificial**
